@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="47eb6286-d1d8-4ac1-9f59-25d4a6926847" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="DiscountApp" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="DiscountApp" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="DiscountApp" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="DiscountApp" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="DiscountApp" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Yvns3lwGOhtZTeb5W2d8wSvqZS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../DiscounTest/DiscounTest" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Program" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Program" />
+      <module name="DiscountApp.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47eb6286-d1d8-4ac1-9f59-25d4a6926847" name="Default Changelist" comment="" />
+      <created>1583832138876</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583832138876</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="94" y="147" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583832984343">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="94" y="147" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1583832984343" />
+    <state x="445" y="208" key="#com.intellij.ide.util.MemberChooser" timestamp="1584003021769">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="445" y="208" key="#com.intellij.ide.util.MemberChooser/0.0.1280.984@0.0.1280.984" timestamp="1584003021769" />
+    <state x="395" y="195" key="#xdebugger.evaluate" timestamp="1584135600590">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="395" y="195" key="#xdebugger.evaluate/0.0.1280.984@0.0.1280.984" timestamp="1584135600590" />
+    <state x="420" y="247" key="FileChooserDialogImpl" timestamp="1584351142253">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="420" y="247" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1584351142253" />
+    <state width="1237" height="231" key="GridCell.Tab.0.bottom" timestamp="1584363558477">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1281" height="270" key="GridCell.Tab.0.bottom/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1583843831150" />
+    <state width="1237" height="231" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1584363558477" />
+    <state width="1237" height="231" key="GridCell.Tab.0.center" timestamp="1584363558477">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1281" height="270" key="GridCell.Tab.0.center/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1583843831150" />
+    <state width="1237" height="231" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1584363558477" />
+    <state width="1237" height="231" key="GridCell.Tab.0.left" timestamp="1584363558477">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1281" height="270" key="GridCell.Tab.0.left/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1583843831150" />
+    <state width="1237" height="231" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1584363558477" />
+    <state width="1237" height="231" key="GridCell.Tab.0.right" timestamp="1584363558477">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1281" height="270" key="GridCell.Tab.0.right/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1583843831150" />
+    <state width="1237" height="231" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1584363558477" />
+    <state width="1237" height="231" key="GridCell.Tab.1.bottom" timestamp="1584363558477">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="231" key="GridCell.Tab.1.bottom/0.0.1280.984@0.0.1280.984" timestamp="1584363558477" />
+    <state width="1237" height="231" key="GridCell.Tab.1.center" timestamp="1584363558477">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="231" key="GridCell.Tab.1.center/0.0.1280.984@0.0.1280.984" timestamp="1584363558477" />
+    <state width="1237" height="231" key="GridCell.Tab.1.left" timestamp="1584363558477">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="231" key="GridCell.Tab.1.left/0.0.1280.984@0.0.1280.984" timestamp="1584363558477" />
+    <state width="1237" height="231" key="GridCell.Tab.1.right" timestamp="1584363558477">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="231" key="GridCell.Tab.1.right/0.0.1280.984@0.0.1280.984" timestamp="1584363558477" />
+    <state x="120" y="66" key="SettingsEditor" timestamp="1584114721074">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="120" y="66" key="SettingsEditor/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1583843457209" />
+    <state x="1400" y="66" key="SettingsEditor/0.0.1280.984/1280.0.1280.984@1280.0.1280.984" timestamp="1583832271303" />
+    <state x="120" y="66" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1584114721074" />
+    <state x="22" y="104" key="new project wizard" timestamp="1584003591220">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="22" y="104" key="new project wizard/0.0.1280.984@0.0.1280.984" timestamp="1584003591220" />
+    <state x="296" y="226" key="run.anything.popup" timestamp="1584132024556">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="296" y="226" key="run.anything.popup/0.0.1280.984@0.0.1280.984" timestamp="1584132024556" />
+  </component>
+</project>
