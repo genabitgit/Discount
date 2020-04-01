@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="47eb6286-d1d8-4ac1-9f59-25d4a6926847" name="Default Changelist" comment="" />
+    <list default="true" id="47eb6286-d1d8-4ac1-9f59-25d4a6926847" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Discount.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Discount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Program.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Discount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Discount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Program.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,6 +75,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Yvns3lwGOhtZTeb5W2d8wSvqZS" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -111,30 +127,34 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="395" y="195" key="#xdebugger.evaluate/0.0.1280.984@0.0.1280.984" timestamp="1584135600590" />
-    <state x="420" y="247" key="FileChooserDialogImpl" timestamp="1584351142253">
+    <state x="230" y="85" key="CommitChangelistDialog2" timestamp="1585736468709">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="420" y="247" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1584351142253" />
-    <state width="1237" height="231" key="GridCell.Tab.0.bottom" timestamp="1584363558477">
+    <state x="230" y="85" key="CommitChangelistDialog2/0.0.1280.984@0.0.1280.984" timestamp="1585736468709" />
+    <state x="420" y="247" key="FileChooserDialogImpl" timestamp="1585756975962">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="420" y="247" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1585756975962" />
+    <state width="1237" height="190" key="GridCell.Tab.0.bottom" timestamp="1585756978688">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state width="1281" height="270" key="GridCell.Tab.0.bottom/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1583843831150" />
-    <state width="1237" height="231" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1584363558477" />
-    <state width="1237" height="231" key="GridCell.Tab.0.center" timestamp="1584363558477">
+    <state width="1237" height="190" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1585756978688" />
+    <state width="1237" height="190" key="GridCell.Tab.0.center" timestamp="1585756978688">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state width="1281" height="270" key="GridCell.Tab.0.center/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1583843831150" />
-    <state width="1237" height="231" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1584363558477" />
-    <state width="1237" height="231" key="GridCell.Tab.0.left" timestamp="1584363558477">
+    <state width="1237" height="190" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1585756978688" />
+    <state width="1237" height="190" key="GridCell.Tab.0.left" timestamp="1585756978688">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state width="1281" height="270" key="GridCell.Tab.0.left/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1583843831150" />
-    <state width="1237" height="231" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1584363558477" />
-    <state width="1237" height="231" key="GridCell.Tab.0.right" timestamp="1584363558477">
+    <state width="1237" height="190" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1585756978688" />
+    <state width="1237" height="190" key="GridCell.Tab.0.right" timestamp="1585756978688">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state width="1281" height="270" key="GridCell.Tab.0.right/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1583843831150" />
-    <state width="1237" height="231" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1584363558477" />
+    <state width="1237" height="190" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1585756978688" />
     <state width="1237" height="231" key="GridCell.Tab.1.bottom" timestamp="1584363558477">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
@@ -165,5 +185,16 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="296" y="226" key="run.anything.popup/0.0.1280.984@0.0.1280.984" timestamp="1584132024556" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Discount.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

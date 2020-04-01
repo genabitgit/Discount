@@ -23,20 +23,28 @@ public class Discount {
         // Set the size of the array with the new prices. Array with discounted prices.
         int[] priceWithDiscount = new int[readLength];
 
-        // In the array with the new prices copied the prices that will be discounted
-        System.arraycopy(price, offset, priceWithDiscount, 0, priceWithDiscount.length);
+        try {
+            // In the array with the new prices copied the prices that will be discounted
+            System.arraycopy(price, offset, priceWithDiscount, 0, priceWithDiscount.length);
+        } catch (ArrayIndexOutOfBoundsException ex) {
+            ex.printStackTrace();
+        }
 
-        // Filling in the array with discounted prices
-        for (int i = 0; i < priceWithDiscount.length; i++) {
+        try {
+            // Filling in the array with discounted prices
+            for (int i = 0; i < priceWithDiscount.length; i++) {
 
-            // Сalculating the discount amount
-            double amountOfDiscount = (discount * (priceWithDiscount[i] / 100.0f));
+                // Сalculating the discount amount
+                double amountOfDiscount = (discount * (priceWithDiscount[i] / 100.0f));
 
-            // Subtract the discount amount from the price
-            double priceWithDiscountDoubleType = (priceWithDiscount[i] - amountOfDiscount);
+                // Subtract the discount amount from the price
+                double priceWithDiscountDoubleType = (priceWithDiscount[i] - amountOfDiscount);
 
-            // Rounding the price down
-            priceWithDiscount[i] = (int) Math.floor(priceWithDiscountDoubleType);
+                // Rounding the price down
+                priceWithDiscount[i] = (int) Math.floor(priceWithDiscountDoubleType);
+            }
+        } catch (Exception ex) {
+            ex.printStackTrace();
         }
 
         //return price with discount
